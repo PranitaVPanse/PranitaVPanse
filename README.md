@@ -9,3 +9,13 @@ Software Tester with over 5 years of experience in manual and automation testing
 - Project Management Tools: Jira, Confluence, TestRail <br/>
 - CI/CD: Jenkins, GitHub Actions <br/>
 
+<h2>Projects</h2>
+<h4> 1) Manual Testing Porfolio - https://github.com/PranitaVPanse/Manual-Testing </h4>
+Objective is to demonstrate manual testing concepts by evaluating a sample e-commerce website ([AboutYou](https://en.aboutyou.de/)), creating detailed test cases, reporting defects, and providing detailed understanding of the manual testing process. <br/>
+<h4> 2) Playwright + JavaScript Practice Project - https://github.com/PranitaVPanse/theInternetHerokuapp </h4>
+This Test Automation Framework, built with Playwright, JavaScript, and Cucumber with Gherkin, automates testing for the "The Internet Herokuapp" website, which offers features like text inputs, dropdowns, basic authentication popups, broken images, checkboxes, and more for practicing automation testing. <br/>
+<h4> 3) XM Task 1 - https://github.com/PranitaVPanse/XM-Task1 </h4>
+This repository contains a Test Automation Framework built with Playwright and JavaScript to automate xm.com website. Task to create multi-resolution browser test case, verifying navigation, functionality, and video playback across resolutions (maximum, 1024x768, 800x600). <br/>
+<h4> 4) XM Task 2 - https://github.com/PranitaVPanse/SWAPI-Task2 </h4> 
+This repository contains automated API tests built with Java and Rest Assured to interact with SWAPI, validating endpoints, finding characters and films based on specific criteria, and performing JSON schema validation for the /people API.
+
